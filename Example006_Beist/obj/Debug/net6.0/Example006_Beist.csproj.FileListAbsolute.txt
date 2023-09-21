@@ -1,0 +1,15 @@
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\bin\Debug\net6.0\Example006_Beist.exe
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\bin\Debug\net6.0\Example006_Beist.deps.json
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\bin\Debug\net6.0\Example006_Beist.runtimeconfig.json
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\bin\Debug\net6.0\Example006_Beist.dll
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\bin\Debug\net6.0\Example006_Beist.pdb
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.csproj.AssemblyReference.cache
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.AssemblyInfoInputs.cache
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.AssemblyInfo.cs
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.csproj.CoreCompileInputs.cache
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.dll
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\refint\Example006_Beist.dll
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.pdb
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\Example006_Beist.genruntimeconfig.cache
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example006_Beist\obj\Debug\net6.0\ref\Example006_Beist.dll
