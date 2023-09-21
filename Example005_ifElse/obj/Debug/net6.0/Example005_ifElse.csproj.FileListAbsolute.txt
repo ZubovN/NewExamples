@@ -1,0 +1,5 @@
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.csproj.AssemblyReference.cache
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.AssemblyInfoInputs.cache
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.AssemblyInfo.cs
+C:\Users\maghr\OneDrive\Рабочий стол\New Examples\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.csproj.CoreCompileInputs.cache
